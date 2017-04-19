@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">PRJ004</string>
+    <string name="connectivity">Connectivity</string>
+    <string name="main_ctrl">Control panel</string>
+    <string name="openDrawer">open drawer</string>
+    <string name="closeDrawer">close drawer</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sliders">Sliders</string>
+    <string name="line_follower_turn_off">Turn off line follower</string>
+    <string name="line_follower_turn_on">Turn on line follower</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="status">Status:</string>
+    <string name="device_paired">device paired</string>
+    <string name="device_not_paired">device not paired</string>
+    <string name="no_bluetooth">bluetooth is unavailable</string>
+    <string name="disabled_bluetooth">bluetooth is disabled</string>
+    <string name="connecting">connecting.....</string>
+    <string name="disconnecting">disconnecting.....</string>
+    <string name="cant_connect">cannot connect device</string>
+    <string name="connected">connected</string>
+    <string name="disconnected">disconnected</string>
+    <string name="clear">Clear</string>
+    <string name="sequence">Sequence</string>
+    <string name="description">This application is used to control a dedicated mobile robot through Bluetooth</string>
+    <string name="made_by">Author: Rafał Ulko</string>
+    <string name="about">About</string>
+    <string name="ping">Distance measure</string>
+    <string name="vertical">Vert.</string>
+    <string name="horizontal">Horiz.</string>
+    <string name="radar_is_off">Turn on radar</string>
+    <string name="get_distance">Get distance</string>
+    <string name="distance"><![CDATA[<distance>]]></string>
+    <string name="save_log">Save Log</string>
+    <string name="inch">in</string>
+    <string name="cm">cm</string>
+    <string name="more"><u>Click for more</u></string>
+    <string name="settings">Settings</string>
+
+    <string-array name="spiner_values">
+        <item>motor</item>
+        <item>arm</item>
+        <item>ping</item>
+    </string-array>
+
+</resources>
